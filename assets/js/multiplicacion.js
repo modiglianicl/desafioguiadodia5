@@ -16,7 +16,7 @@ const multiplicar = (num) => {
     }
 }
 
-// Función que muestra factoriales en conosla
+// Función que muestra factoriales en consola
 
 const listarFactoriales = (num) => {
     for (let i = 1; i <= num; i++) {
@@ -28,7 +28,7 @@ const listarFactoriales = (num) => {
     }
 }
 
-// Obtenemos el numero a trabajar
+// Obtenemos el número a trabajar
 
 numero = pedirNumero()
 
